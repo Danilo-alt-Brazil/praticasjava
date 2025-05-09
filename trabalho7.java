@@ -12,7 +12,7 @@ public class Exemplo7 {
      */
     public static void main(String[] args) {
         int soma = 0;
-        for (int i = 1; <=100; i++){
+        for (int i = 1; i <=100; i++){
               soma+=i;
         }
     system.out.println(soma);

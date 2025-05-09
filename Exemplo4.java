@@ -1,8 +1,9 @@
 package exemplo4;
 import java.util.Scanner;
 
+//Estrutura de decisão
 //imprima dois numeros e diga o maior entre eles
-//Guilherme Soares
+//Danilo Brazil
 public class Exemplo4 {
 
     /**

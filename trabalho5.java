@@ -1,6 +1,7 @@
 package Exemplo5;
 import java.util.Scanner;
-//Guilherme Soares
+//Estrutura de decisão
+//Danilo Brazil
 //As maçãs custam R$ 1,30 cada se forem compradas menos de uma dúzia,
 //e R$ 1,00 se forem compradas pelo menos 12 unidades. Escreva um programa 
 //que leia o número de maçãs compradas, calcule e escreva o custo total da compra.

@@ -1,6 +1,6 @@
-/* 10_Uma pessoa lê um livro de 100 páginas em 6 dias. Em quantos dias essa pessoa lê um livro de 150 páginas?
- * 
- *
+/* Lógica
+ * Danilo Brazil
+ *10_Uma pessoa lê um livro de 100 páginas em 6 dias. Em quantos dias essa pessoa lê um livro de 150 páginas?
  */
 package trabalho2;
 

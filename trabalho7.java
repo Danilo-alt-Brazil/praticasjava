@@ -1,9 +1,9 @@
 
 package exemplo7;
 
-/**
+/**Estrutura de repetição
  *Faça um programa que calcule a soma dos números inteiros de 1 a 100.
- * @author Guilherme Soares
+ * Danilo Brazil
  */
 public class Exemplo7 {
 

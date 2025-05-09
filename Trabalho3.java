@@ -1,5 +1,6 @@
-/*11_ Lúcia foi ao mesmo tempo a décima terceira melhor classificada e a décima terceira pior classificada de um concurso. Quantos eram os concorrentes?
- * 
+/*Lógica
+ * Danilo Brazil
+ *11_ Lúcia foi ao mesmo tempo a décima terceira melhor classificada e a décima terceira pior classificada de um concurso. Quantos eram os concor
  */
 package trabalho3;
 

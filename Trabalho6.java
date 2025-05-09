@@ -1,54 +1,32 @@
-/*Estrutura de decisão
- *Danilo Brazil 
- *Faça um programa que receba como entrada três valores e os imprima em ordem crescente.
- * 
+/*2.6_Faça um programa que:
+Leia um número inteiro;
+Leia um segundo número inteiro;
+Efetue a adição dos dois valores;
+Apresente o valor calculado.
  */
 package trabalho6;
 
-import java.util.Arrays;
 import java.util.Scanner;
-
-
 
 public class Trabalho6 {
 
-    
-    
-    
     public static void main(String[] args) {
-      Scanner scanner = new Scanner(System.in);
+      {
+        Scanner scanner = new Scanner(System.in);
 
-        
-        System.out.print("Digite o primeiro valor: ");
-        double a = scanner.nextDouble();
+        System.out.print("Digite o nome: ");
+        String nome = scanner.nextLine();
 
-        System.out.print("Digite o segundo valor: ");
-        double b = scanner.nextDouble();
+        System.out.print("Digite o sobrenome: ");
+        String sobrenome = scanner.nextLine();
 
-        System.out.print("Digite o terceiro valor: ");
-        double c = scanner.nextDouble();
+        String nomeCompleto = nome + " " + sobrenome;
 
-      
-        double[] valores = {a, b, c};
-
-      
-        Arrays.sort(valores);
-
-        
-        System.out.println("Valores em ordem crescente:");
-        for (double valor : valores) {
-            System.out.println(valor);
-        }
-
+        System.out.println("Nome completo: " + nomeCompleto);
         scanner.close();
+ 
+        
+   
+        }
     }
 }
-
-        
-        
-        
-        
-        
-    
-    
-
